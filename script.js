@@ -13,12 +13,12 @@ const nextBtn = document.getElementById('next');
 // Music
 const songs = [
    {
-      name: 'AstronautInTheOcean',
+      name: 'AstronautintheOcean',
       displayName: 'Astronaut In The Ocean',
       artist: 'Masked Wolf',
    },
    {
-      name: 'FireOnFire',
+      name: 'FireonFire',
       displayName: 'Fire On Fire',
       artist: 'Sam Smith',
    },
